@@ -6,7 +6,7 @@
 
 
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fpython-logo%2F&psig=AOvVaw2aFZtYEBehXUySxBwu-vIl&ust=1665512293205000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjL9fai1voCFQAAAAAdAAAAABAE"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fpython-logo%2F&psig=AOvVaw2aFZtYEBehXUySxBwu-vIl&ust=1665512293205000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjL9fai1voCFQAAAAAdAAAAABAE](https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-700x394.png)"/> 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 
 
