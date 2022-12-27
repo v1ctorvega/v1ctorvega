@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hey!  I'm Victor Vega 👋👋<br><br><br>I'm a mechatronics engineering student from UNITEC⚡<br><br>🌌🌌I'm passionate about Big Data technologies🌌🌌<br><br><br>Everyday is a chance to grow and learn something valuable🌳 <br><br><br>*Here you can find my personal projects related to Big Data*<br><br><br>
+## Hey!  I'm Victor Vega 👋👋<br><br><br>I'm a mechatronics engineering student from UNITEC⚡<br><br>🌌🌌I'm passionate about Data Science 🌌🌌<br><br><br>Everyday is a chance to grow and learn something valuable🌳 <br><br><br>*Here you can find my personal projects related to Big Data*<br><br><br>
 
 
 💻 Tech Stack:
